@@ -85,7 +85,7 @@ const Chat = () => {
 
           return updatedMessages;
         });
-      }, 40);
+      }, 30);
     } catch (error) {
       console.log(error);
     }
