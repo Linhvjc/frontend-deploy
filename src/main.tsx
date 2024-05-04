@@ -7,7 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 import { AuthProvider } from "./context/AuthContext.tsx";
 import { Toaster } from "react-hot-toast";
 import axios from "axios";
-axios.defaults.baseURL = "https://backend-deploy-4th9.onrender.com/api/v1";
+axios.defaults.baseURL = "https://backend-deploy-s308.onrender.com/api/v1";
 axios.defaults.withCredentials = true;
 const theme = createTheme({
   typography: {
