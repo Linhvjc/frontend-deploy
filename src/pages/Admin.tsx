@@ -1,9 +1,6 @@
 import { Box, useMediaQuery, useTheme } from "@mui/material";
-import React, { useEffect } from "react";
 import TypingAnimAdmin from "../components/typer/TypingAnimAdmin";
 import StickyHeadTableParam from "../components/table/StickyHeadTableParam";
-import StickyHeadTable from "../components/table/StickyHeadTable";
-import CollapsibleTable from "../components/table/CollapsibleTable";
 import StickyHeadTableUser from "../components/table/StickyHeadTableUser";
 
 
